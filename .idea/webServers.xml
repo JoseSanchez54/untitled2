@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3b1c06e-957c-498e-a5da-d95258c78ab5" name="Sered Icecream definitiva" url="http://ftp.paginaweb10.com">
+        <fileTransfer rootFolder="/icecreammarketing.shop/wp-content/themes/genesis-child" host="ftp.paginaweb10.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
